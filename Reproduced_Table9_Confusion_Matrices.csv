@@ -1,0 +1,5 @@
+metric,rule,TN,FP,FN,TP
+Candidate union (SAM or MTMF),Any overlap (>0),16,3,5,14
+Candidate union (SAM or MTMF),At least 10% cover,16,3,7,12
+SAM–MTMF agreement,Any overlap (>0),17,2,13,6
+SAM–MTMF agreement,At least 10% cover,17,2,14,5
