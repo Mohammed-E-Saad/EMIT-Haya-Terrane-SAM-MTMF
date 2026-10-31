@@ -1,0 +1,10 @@
+﻿Statistic,SAM OR MTMF union,SAM AND MTMF agreement
+Mean mining-site coverage,33.9%,12.8%
+Mean non-mining control coverage,10.4%,4.6%
+Paired coverage difference (pp),+23.53,+8.25
+"95% CI, difference (pp)",7.04 to 39.24,−2.72 to 21.74
+Paired Wilcoxon p-value,0.0067,0.241
+ROC AUC,0.766,0.602
+"95% CI, ROC AUC",0.619 to 0.900,0.488 to 0.711
+Average precision,0.687,0.588
+"95% CI, average precision",0.568 to 0.895,0.502 to 0.711
